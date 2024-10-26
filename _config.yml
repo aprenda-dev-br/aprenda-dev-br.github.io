@@ -18,24 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Aprenda Dev
+email: rodolfoghi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  O Aprenda Dev é uma plataforma onde compartilho meu aprendizado acumulado ao longo de 17 anos de carreira na área de tecnologia, desde os tempos de estagiário até minha posição atual na diretoria. O objetivo é ajudar você a conhecer o mundo da programação e se desenvolver na área com base em experiências e lições práticas do dia a dia.
 domain: aprenda-dev-br.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://aprenda-dev-br.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username: aprenda-dev-br
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
