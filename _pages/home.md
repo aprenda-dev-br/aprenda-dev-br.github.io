@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-play'></i> Comece aqui"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  Foque no que realmente importa, seja um resolvedor de problemas.<br/>
+  Foque no que realmente importa: seja a pessoa que resolve problemas e constrói soluções!
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Ferramentas"
