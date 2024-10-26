@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 locale: "pt-BR"
 title: Aprenda Dev
 email: rodolfoghi@gmail.com
@@ -30,7 +33,6 @@ url: https://aprenda-dev-br.github.io # the base hostname & protocol for your si
 github_username: aprenda-dev-br
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
